@@ -1,0 +1,7 @@
+.nextflow/
+work/
+.snakemake/
+*.fastq.gz
+*.bam
+*.sam
+*.bai
